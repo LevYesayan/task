@@ -1,3 +1,8 @@
+@import "./styles/mixins.scss";
+@import "./styles/grid.scss";
+@import './styles/global.scss';
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

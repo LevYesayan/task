@@ -1,0 +1,20 @@
+.content {
+  margin-top: 80px;
+}
+.content-wrapper {
+  height: 100%;
+  background: #FFF4EE;
+}
+
+.not-found {
+  align-items: center;
+  margin-left: 160px;
+  span {
+    font-size: 100px;
+    line-height: 120px;
+  }
+  p {
+    font-size: 60px;
+    line-height: 80px;
+  }
+}

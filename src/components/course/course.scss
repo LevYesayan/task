@@ -1,0 +1,25 @@
+@import '../../styles/mixins';
+
+.courses-container {
+  grid-template-columns: 1fr;
+  grid-gap: 48px;
+  width: 100%;
+}
+
+.courses {
+  width: 75%;
+  align-items: center;
+  margin-left: 20%;
+}
+
+.course-header-container {
+  width: 100%;
+  grid-template-columns: 70% 30%;
+  margin-bottom: 40px;
+  .tabs {
+    justify-self: end;
+  }
+  .heading {
+    justify-self: start;
+  }
+}

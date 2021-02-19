@@ -1,0 +1,23 @@
+.heading {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 59px;
+}
+
+::-webkit-scrollbar {
+  width: 23px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F2CBBF;
+  margin-top: 80px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #C4C4C4;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ec3e3e;
+}
